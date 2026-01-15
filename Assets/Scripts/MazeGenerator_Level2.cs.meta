@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 982ebd6b041f13640b99b54e0fb8289f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mazeTilePrefab: {fileID: 7316071781787926741, guid: e22e3761286970a42b7ec621784a7a4c, type: 3}
+  - parkourPlatformPrefab: {fileID: 3960318569018878956, guid: 5fa2a884549a88f47ab6bdbd17f66ac6, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
